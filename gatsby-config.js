@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Shubh Shubh Ramblings`,
+    title: `Shubham's Engineering Blog`,
     author: {
       name: `Shubham Rai`,
       summary: `who works in Bengaluru trying to become a better engineer everyday`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://blog.shubhamrai.com`,
+    description: `Technical blog of Shubham Rai`,
+    siteUrl: `https://blog.srai.dev`,
     social: {
       twitter: `shubham5830`,
     },
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Shubh Shubh Ramblings RSS Feed",
+            title: "Shubham's Engineering Blog RSS Feed",
           },
         ],
       },
@@ -110,7 +110,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Shubh Shubh Ramblings`,
+        name: `Shubham's Engineering Blog`,
         short_name: `Shubham Rai`,
         start_url: `/`,
         background_color: `#ffffff`,
