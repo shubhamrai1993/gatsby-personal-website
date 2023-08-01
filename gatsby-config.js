@@ -9,12 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Shubham's Engineering Blog`,
+    title: `Opinions as a Service`,
     author: {
       name: `Shubham Rai`,
-      summary: `who works in Bengaluru trying to become a better engineer everyday`,
+      summary: `from India, the third planet from the Sun, around 8,000 parsecs from the center of the Milky Way`,
     },
-    description: `Technical blog of Shubham Rai`,
+    description: `Because microblogging is not my thing. I tend to be more of a mega`,
     siteUrl: `https://blog.srai.dev`,
     social: {
       twitter: `shubham5830`,
