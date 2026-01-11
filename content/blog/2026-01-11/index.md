@@ -28,4 +28,4 @@ These are the key lessons from the book:
 8. Communicate clearly, comprehensively and consistently - Praise sparingly but effusively, criticize promptly, and be positive while speaking
 9. Manage successes - Celebrate briefly, then return to work. Take this as an opportunity to refocus and reset.
 10. Maintain an internal hard edge - Excessive casualness breeds complacency. Only serious environments can produce serious results.
-11. The score really does take care of itself - If—and only if—the standard is upheld relentlessly.
+11. The score really does take care of itself - If and only if the standard is upheld relentlessly.
